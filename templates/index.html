@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Resume Screening AI</title>
+    <link rel="stylesheet" href="{{ url_for('static', filename='style.css') }}">
+
+</head>
+
+<body>
+    <div class="container">
+        <h1>Resume Screening AI</h1>
+        <p>Check how well a resume matches a job description</p>
+
+        <form method="POST" action="/">
+            <label>Resume</label>
+            <textarea name="resume" required placeholder="Enter the resume details"></textarea>
+
+            <label>Job Description</label>
+            <textarea name="job" required placeholder="Enter the job description details"></textarea>
+
+            <button type="submit">Check Match</button>
+        </form>
+
+        {% if score is not none %}
+            <hr>
+            <h3>Match Score: {{ score }}%</h3>
+        {% endif %}
+    </div>
+</body>
+</html>

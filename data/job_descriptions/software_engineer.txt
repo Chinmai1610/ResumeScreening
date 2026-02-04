@@ -1,0 +1,19 @@
+We are looking for a Software Engineer with strong programming skills and problem-solving abilities.
+
+Required Skills:
+- Python or Java
+- Data Structures and Algorithms
+- Object-Oriented Programming
+- Basic knowledge of databases (SQL)
+- Understanding of software development lifecycle
+
+Preferred Skills:
+- Experience with web frameworks like Flask or Spring Boot
+- Familiarity with Git and version control
+- Basic knowledge of Machine Learning or AI is a plus
+
+Responsibilities:
+- Develop, test, and maintain software applications
+- Write clean and efficient code
+- Collaborate with team members on software projects
+- Debug and optimize existing systems

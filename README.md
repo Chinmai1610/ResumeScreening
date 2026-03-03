@@ -25,5 +25,10 @@ This project is designed for **internship-level learning**, focusing on clear lo
 - **Cosine Similarity**
 
 ---
+## Screenshot
+---
+<img width="1258" height="799" alt="Screenshot 2026-03-03 195150" src="https://github.com/user-attachments/assets/c151db0d-5b17-4230-82da-610cedc64adf" />
+
+
 
 
